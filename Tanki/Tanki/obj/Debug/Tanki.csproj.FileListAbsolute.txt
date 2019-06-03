@@ -1,0 +1,6 @@
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\obj\Debug\Tanki.csprojResolveAssemblyReference.cache
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\obj\Debug\Tanki.csproj.CoreCompileInputs.cache
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\bin\Debug\Tanki.exe
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\bin\Debug\Tanki.pdb
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\obj\Debug\Tanki.exe
+C:\Users\1\RiderProjects\Lab1\Tanki\Tanki\obj\Debug\Tanki.pdb
